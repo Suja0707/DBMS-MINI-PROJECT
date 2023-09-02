@@ -1,5 +1,5 @@
 # Employee Management System
-This Database Management project is designed to streamline and enhance administrative efficiency in managing employee information. Features Include:
+This Database Management project is designed to streamline and enhance administrative efficiency in managing employee information. Features Include:<br>
 -Insertion : Creating an account and logging in employee's account<br>
 -Retrieval of employee info<br>
 -Modification<br>
