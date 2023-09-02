@@ -3,11 +3,11 @@ This Database Management project is designed to streamline and enhance administr
 
 
 
-Technologies Include:
--MySQL Backend
--Java Logic: 
--User-Centric Frontend: 
--Interactive with AJAX: 
+Technologies Include:<br>
+-MySQL Backend<br>
+-Java Logic: <br>
+-User-Centric Frontend: <br>
+-Interactive with AJAX: <br>
 
 
 
